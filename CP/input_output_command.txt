@@ -1,0 +1,15 @@
+// Redirect standart input: 
+
+Get-Content INPUT\input1.txt | .\program1.exe > \OUTPUT\output1.txt
+
+
+// --------- For main arguments ---------
+
+
+// argc   -> argument count
+// argv   -> array of pointers to arguments
+
+
+int main( int argc , char* argv[]){
+
+}

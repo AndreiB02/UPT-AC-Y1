@@ -1,0 +1,2 @@
+String processing -> 4
+Strng and array   -> 5 -> swap sort? ca si cum ai ordona un array cu 2 for uri

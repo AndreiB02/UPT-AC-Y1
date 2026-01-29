@@ -1,0 +1,4 @@
+ 1.      Paragraph info Write
+ a      program that reads a
+ll input       and prints, for         each paragraph,
+     the number    of w3rds and      lines.

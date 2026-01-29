@@ -1,0 +1,4 @@
+3
+Ana Maria, 10, 8
+Gigel, 5, 3
+Ionel, 2, 9
